@@ -1,7 +1,8 @@
-// Author: Matthew Anderson
-// CSC 385 Computer Graphics
-// Version: Winter 2020
-// Project 1: Simple graphical user interface for VR.
+/**
+ * @author Matthew Anderson
+ */
+
+// Simple graphical user interface for VR.
 
 import * as THREE from '../extern/three.module.js';
 

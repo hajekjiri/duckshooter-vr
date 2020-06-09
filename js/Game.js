@@ -1,3 +1,7 @@
+/**
+ * @author Jiri Hajek / https://github.com/hajekjiri
+ */
+
 import * as THREE from '../extern/three.module.js';
 import * as USER from './User.js';
 import * as GUIVR from './GuiVR.js';

@@ -1,12 +1,9 @@
-// Author: Matthew Anderson
-// CSC 385 Computer Graphics
-// Version: Winter 2020
-// Project 2: Main program.
+/**
+ * @author Matthew Anderson
+ * @author Jiri Hajek / https://github.com/hajekjiri
+ */
+
 // Initializes scene, VR system, and event handlers.
-//
-// Edited by: Jiri Hajek
-// - heavily stripped and reformatted
-// - added duckshooter-related stuff
 
 import * as THREE from '../extern/three.module.js';
 import { VRButton } from '../extern/VRButton.js';
