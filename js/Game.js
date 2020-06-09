@@ -122,7 +122,6 @@ class Duck extends THREE.Group {
     // Load a glTF resource
     loader.load(
       // resource URL
-      //'Duck.gltf',
       'Duck.gltf',
       // called when the resource is loaded
       (gltf) => {
@@ -240,10 +239,6 @@ class DuckRig extends THREE.Group {
   }
 }
 
-/**
- * TODO:
- * - BufferGeometry
- */
 export class Game extends THREE.Group {
   constructor(userRig, relPos = new THREE.Vector3(0, 0, 0), relRot = new THREE.Vector3(0, 0, 0), ducksAmt = 5, duckBaseSpeed = 5, projRadius = 3, projSpeed = 1, projRateOfFire = 3) {
     super();
