@@ -20,3 +20,6 @@ git clone https://github.com/hajekjiri/duckshooter-vr.git
 ```
 
 You're all set. Navigate to `index.html` to play the game.
+
+## Used external modules
+* [mrdoob/three.js](https://github.com/mrdoob/three.js) is licensed under the [MIT license](https://github.com/mrdoob/three.js/blob/dev/LICENSE)
